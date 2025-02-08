@@ -1,9 +1,10 @@
-Application view:
+# Application view:
+
 https://apolinaryszumski.github.io/goit-react-hw-07-phonebook/
 
-To run application on localhost:
+# To run application on localhost:
 
-# Using npm
+Using npm
 
 - npm run dev
 
