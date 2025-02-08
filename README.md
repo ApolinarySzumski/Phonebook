@@ -1,8 +1,18 @@
-# React + Vite
+Application view:
+https://apolinaryszumski.github.io/goit-react-hw-07-phonebook/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run application on localhost:
 
-Currently, two official plugins are available:
+# Using npm
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- npm run dev
+
+An application description
+
+The application uses react and redux.
+To fetch data the application uses axios too.
+For the application styles, it uses styled-components.
+
+Short summary
+
+The phone book application allows the user to add contacts. It is also possible to delete contacts, as well as search for a contact from the list.
