@@ -1,6 +1,6 @@
 # Application view:
 
-https://apolinaryszumski.github.io/goit-react-hw-07-phonebook/
+https://apolinaryszumski.github.io/Phonebook/
 
 # To run application on localhost:
 

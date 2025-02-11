@@ -4,5 +4,5 @@ import { defineConfig } from "vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/goit-react-hw-07-phonebook/",
+  base: "/Phonebook/",
 });
