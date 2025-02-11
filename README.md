@@ -1,7 +1,3 @@
-# Application view:
-
-https://apolinaryszumski.github.io/Phonebook/
-
 # To run application on localhost:
 
 - npm run dev
