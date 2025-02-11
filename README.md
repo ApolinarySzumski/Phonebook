@@ -4,8 +4,6 @@ https://apolinaryszumski.github.io/Phonebook/
 
 # To run application on localhost:
 
-Using npm
-
 - npm run dev
 
 # An application description
